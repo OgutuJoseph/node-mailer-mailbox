@@ -40,4 +40,4 @@ const Send_Email = () => {
             console.log('error: ', error.message);
         }
     })
-}
+};
